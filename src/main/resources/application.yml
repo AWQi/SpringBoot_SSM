@@ -7,5 +7,7 @@ spring:
     password: root
     username: root
 mybatis:
+  # mapper.java ≈‰÷√
   type-aliases-package: com.example.mapper
+  #mapper.xml ≈‰÷√
   mapper-locations: classpath:mapper/*Mapper.xml
