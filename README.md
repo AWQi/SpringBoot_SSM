@@ -14,7 +14,7 @@
 
 
 
-<img src="https://github.com/AWQi/SpringBoot_SSM/目录结构.png" width= "175" height="275"/>
+<img src="https://github.com/AWQi/SpringBoot_SSM/blob/master/目录结构.png" width= "175" height="275"/>
 
 
-<img src="https://github.com/AWQi/SpringBoot_SSM/访问截图.png" width= "175" height="275"/>
+<img src="https://github.com/AWQi/SpringBoot_SSM/blob/master/访问截图.png" width= "175" height="275"/>
